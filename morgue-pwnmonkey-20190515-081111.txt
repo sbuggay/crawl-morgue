@@ -1,4 +1,6 @@
- Dungeon Crawl Stone Soup version 0.24-a0-310-g89f717d (console) character file.
+(Spawned 10 manuals!)
+
+Dungeon Crawl Stone Soup version 0.24-a0-310-g89f717d (console) character file.
 
 Game seed: 2250528333622237715
 
