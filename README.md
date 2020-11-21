@@ -17,6 +17,8 @@ Wins that were on czso, now down :(.
 |pwnmonkey the Chief of Staff (L27 MiGl of Okawaru), escaped with the Orb and 4 runes on 2014-12-24 22:57:48, with 2397642 points after 67753 turns and 3:12:56.|
 |pwnmonkey the Grand Master (L27 VSMo of The Shining One), escaped with the Orb and 15 runes on 2014-12-31 19:06:39, with 17609067 points after 88092 turns and 8:45:13.|
 |pwnmonkey the Human Blade (L27 HuBe of Trog), escaped with the Orb and 3 runes on 2015-01-04 13:11:21, with 1760697 points after 60461 turns and 3:39:35.|
+|pwnmonkey the Swordmaster (L27 MiFi of The Shining One), escaped with the Orb and 15 runes on 2020-11-20 23:35:22, with 15125067 points after 104529 turns and 8:19:07.|
+
 
 Current `!greatplayer` as of 5/3/2019
 
